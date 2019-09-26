@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireStoreDemo</string>
+    <string name="enter_quote">Enter Quote</string>
+    <string name="author">Author name</string>
+    <string name="save">Save</string>
+    <string name="quote_here">quote here!</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
